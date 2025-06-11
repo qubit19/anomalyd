@@ -18,8 +18,8 @@ warnings.filterwarnings("ignore", module='sklearn')
 
 url = {url}
 key = {key}
-database_name = "smart_sensors"
-container_name = "smart_sensors"
+database_name = {db_name}
+container_name = {container_name}
 
 
 
